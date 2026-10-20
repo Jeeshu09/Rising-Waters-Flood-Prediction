@@ -120,11 +120,7 @@ based on the weather conditions entered by the user.
 
 ## 👨‍💻 Developed By
 
-**Sudheer Chidugundu**
-**Charan Neerukattu****
-**Himasri Vemulapalli**
-**Bhavya Sri Konduru**
-**Jeeshitha Sai Vistamsetty**
+Jeeshitha Sai Vistamsetty
 
 B.Tech CSE
 
